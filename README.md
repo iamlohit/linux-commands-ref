@@ -1,7 +1,7 @@
 # Linux Commands by Category
 
 1. **File Storage Locations**
-   1. cd: Change directory, most fundamental navigation command.
+   1. [cd](1_File_Storage_Locations/cd): Change directory, most fundamental navigation command.
    2. ls: List directory contents, widely used for exploration.
    3. pwd: Print working directory, simple and essential.
    4. mkdir: Create directories, basic file system modification.
