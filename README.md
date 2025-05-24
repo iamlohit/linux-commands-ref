@@ -2,7 +2,7 @@
 
 1. **File Storage Locations**
    1. [cd](/docs/1_File_Storage_Locations/cd.md): Change directory, most fundamental navigation command.
-   2. ls: List directory contents, widely used for exploration.
+   2. [ls](/docs/1_File_Storage_Locations/ls.md): List directory contents, widely used for exploration.
    3. pwd: Print working directory, simple and essential.
    4. mkdir: Create directories, basic file system modification.
    5. rmdir: Remove empty directories, slightly more specific.
