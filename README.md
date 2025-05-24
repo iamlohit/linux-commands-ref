@@ -4,7 +4,7 @@
    1. [cd](/docs/1_File_Storage_Locations/cd.md): Change directory, most fundamental navigation command.
    2. [ls](/docs/1_File_Storage_Locations/ls.md): List directory contents, widely used for exploration.
    3. [pwd](/docs/1_File_Storage_Locations/pwd.md): Print working directory, simple and essential.
-   4. mkdir: Create directories, basic file system modification.
+   4. [mkdir](/docs/1_File_Storage_Locations/mkdir.md): Create directories, basic file system modification.
    5. rmdir: Remove empty directories, slightly more specific.
    6. find: Search for files/directories, more complex with options.
    7. locate: Faster search using a database, requires understanding of updatedb.
